@@ -1,0 +1,14 @@
+C:\Users\alpif\OneDrive\Documentos\Progra_4\ProyectoFinal\ProyectoFinal\ProyectoFinal\Datos\bin\Debug\Datos.dll.config
+C:\Users\alpif\OneDrive\Documentos\Progra_4\ProyectoFinal\ProyectoFinal\ProyectoFinal\Datos\bin\Debug\Datos.dll
+C:\Users\alpif\OneDrive\Documentos\Progra_4\ProyectoFinal\ProyectoFinal\ProyectoFinal\Datos\bin\Debug\Datos.pdb
+C:\Users\alpif\OneDrive\Documentos\Progra_4\ProyectoFinal\ProyectoFinal\ProyectoFinal\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\alpif\OneDrive\Documentos\Progra_4\ProyectoFinal\ProyectoFinal\ProyectoFinal\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\alpif\OneDrive\Documentos\Progra_4\ProyectoFinal\ProyectoFinal\ProyectoFinal\Datos\obj\Debug\Datos.dll
+C:\Users\alpif\OneDrive\Documentos\Progra_4\ProyectoFinal\ProyectoFinal\ProyectoFinal\Datos\obj\Debug\Datos.pdb
+C:\Users\alpif\Downloads\ProyectoFinalV3\ProyectoFinal\ProyectoFinal\Datos\bin\Debug\Datos.dll.config
+C:\Users\alpif\Downloads\ProyectoFinalV3\ProyectoFinal\ProyectoFinal\Datos\bin\Debug\Datos.dll
+C:\Users\alpif\Downloads\ProyectoFinalV3\ProyectoFinal\ProyectoFinal\Datos\bin\Debug\Datos.pdb
+C:\Users\alpif\Downloads\ProyectoFinalV3\ProyectoFinal\ProyectoFinal\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\alpif\Downloads\ProyectoFinalV3\ProyectoFinal\ProyectoFinal\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\alpif\Downloads\ProyectoFinalV3\ProyectoFinal\ProyectoFinal\Datos\obj\Debug\Datos.dll
+C:\Users\alpif\Downloads\ProyectoFinalV3\ProyectoFinal\ProyectoFinal\Datos\obj\Debug\Datos.pdb
